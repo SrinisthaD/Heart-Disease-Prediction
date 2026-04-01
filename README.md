@@ -3,7 +3,7 @@
 This project predicts the likelihood of heart disease using machine learning classification algorithms. The complete workflow includes exploratory data analysis, outlier detection, data preprocessing, and model comparison.
 
 ## 📊 Dataset
-[Add source of dataset here]
+https://www.kaggle.com/datasets/rishidamarla/heart-disease-prediction
 
 ## 🔧 Libraries Used
 - Pandas, NumPy (Data manipulation)
